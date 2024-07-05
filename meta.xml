@@ -1,0 +1,12 @@
+<meta>
+    <oop>true</oop>
+    <info author="sousateew" />
+
+    <script src="settings/database.lua" type="server" cache="false" />
+    <script src="settings/global.lua" type="shared" cache="false" />
+    <script src="settings/items.lua" type="shared" cache="false" />
+
+    <script src="lib/utils.lua" type="shared" cache="false" />
+
+    <script src="modules/*.lua" type="server" cache="false" />
+</meta>
